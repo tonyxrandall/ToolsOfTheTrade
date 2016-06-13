@@ -479,6 +479,7 @@ TRUSTED BY THOUSANDS, WORLDWIDE | Cashboard is the tool we designed to remedy th
 Easier Invoicing
 Online Payments | In Paydirt, you can start a timer from any page in one click. No fiddly menus. No navigating around. Just a start button for each task.
 * SpikeTime | http://www.spiketime.net | | $6/mo- $7/mo | Easy and powerful time tracking for freelancers and project teams | Easy and fast time tracking with a lot of features. No installation needed - just sign up and start to track your work hours. Provides useful reports about time and revenue and helps you to remember to track your times with notifications.
+* InvoiceHome | https://invoicehome.com | Free / $5/mo | Simple invoicing tool created with freelancers in mind.
 
 #### Privacy Policy, Terms & Conditions, Legal Documents
 
@@ -770,6 +771,8 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * SerpBook | http://serpbook.com/
 * WooRank | https://www.woorank.com | [@woorank](https://twitter.com/woorank) | Free - $49/mo | WooRank analyzes your website for optimization best practices and shows how it ranks against your competition. Its real-time brandable reports, consisting of over 150 data-points, help you to instantly spot critical issues that impact traffic, usability and conversions. Sync your analytics, social accounts and keywords for even more robust tracking.
 * Moz | https://moz.com | [@moz](https://twitter.com/moz) | $99/mo - $599/mo | Moz provides you all the tools you need to effectively do search engine optimization. On site optimization graders, competitor tracking, back link analysis, rank trakcing and many more features available to users.
+* SEMrush | https://www.semrush.com | [@semrush](https://twitter.com/semrush | $69.95/mo - $549.95/mo | Keyword and SEO research.
+* MajesticSEO | https://majestic.com/ | [@Majestic](https://twitter.com/Majestic) | $49.99/mo - $399.99/mo | Majestic provides an in-depth backlinking tool to help identify link opportunities and keep an eye on competition.
 
 #### API Builder
 
@@ -815,6 +818,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Moo | https://www.moo.com
 * PSPrint | https://www.psprint.com
 * Vista Print | http://vistaprint.com
+* PurpleTrail | http://www.purpletrail.com/business/business-cards
 
 ## Contributing
 
